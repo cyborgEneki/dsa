@@ -1,3 +1,3 @@
 # DSA
 
-Daily drills because I can.
+Daily drills because I can :)
