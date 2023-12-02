@@ -17,7 +17,7 @@ var twoSum = function (nums, target) {
     }
 };
 
-console.log(twoSum([2, 5, 6, 7], 9));
+console.log(twoSum([2, 5, 6, 7, 8], 9));
 
 /**
     INPUT: arr of integers (nums) and integer (target)
