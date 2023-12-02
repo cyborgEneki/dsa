@@ -20,7 +20,7 @@ var isPalindrome = function (x) {
     return originalString === reversedString;
 };
 
-console.log(isPalindrome('omamou'));
+console.log(isPalindrome('omamo'));
 
 /**
 INPUT: integer (x)
