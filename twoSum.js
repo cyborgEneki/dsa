@@ -34,8 +34,8 @@ console.log(twoSum([2, 5, 6, 7, 8], 9));
     APPROACH: 
     Create an empty map to keep track of previously seen complements
     Loop through
-        Get the current complement
-        Check whether it is present in the map
+        Get the current element's complement
+        Check whether the complement is present in the map
         Y: Return both indices
-        N: Add the current complement to the map and repeat
+        N: Add the current element to the map and repeat
      */
