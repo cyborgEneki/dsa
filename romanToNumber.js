@@ -60,3 +60,70 @@ Loop
     N: add to sum and keep the loop going
 Return sum
  */
+
+
+/**
+
+var romanToInt = function (s) {
+    let sum = 0;
+    const pairs = [
+        ["I", 1],
+        ["V", 5],
+        ["X", 10],
+        ["L", 50],
+        ["C", 100],
+        ["D", 500],
+        ["M", 1000]
+    ];
+    const romanLookup = new Map(pairs);
+
+    for (let i = 0; i < s.length; i++) {
+        let current = s[i];
+
+        if (i + 1 < s.length) {
+            let nextElement = s[i + 1];
+
+            if (current === "I" && nextElement === "V") {
+                sum += 4;
+                i++;
+                continue;
+            }
+
+            if (current === "I" && nextElement === "X") {
+                sum += 9;
+                i++;
+                continue;
+            }
+
+            if (current === "X" && nextElement === "L") {
+                sum += 40;
+                i++;
+                continue;
+            }
+
+            if (current === "X" && nextElement === "C") {
+                sum += 90;
+                i++;
+                continue;
+            }
+
+            if (current === "C" && nextElement === "D") {
+                sum += 400;
+                i++;
+                continue;
+            }
+
+            if (current === "C" && nextElement === "M") {
+                sum += 900;
+                i++;
+                continue;
+            }
+        }
+
+        sum += romanLookup.get(current);
+    }
+
+    return sum;
+};
+ * 
+ */
