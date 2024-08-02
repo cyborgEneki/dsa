@@ -1,0 +1,7 @@
+D:\dsa_practice\c-sharp\PalindromeNumber\PalindromeNumber\bin\Debug\PalindromeNumber.exe.config
+D:\dsa_practice\c-sharp\PalindromeNumber\PalindromeNumber\bin\Debug\PalindromeNumber.exe
+D:\dsa_practice\c-sharp\PalindromeNumber\PalindromeNumber\bin\Debug\PalindromeNumber.pdb
+D:\dsa_practice\c-sharp\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.csproj.AssemblyReference.cache
+D:\dsa_practice\c-sharp\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.csproj.CoreCompileInputs.cache
+D:\dsa_practice\c-sharp\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.exe
+D:\dsa_practice\c-sharp\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.pdb

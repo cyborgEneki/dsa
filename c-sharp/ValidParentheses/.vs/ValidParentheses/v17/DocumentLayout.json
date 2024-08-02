@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dsa_practice\\c-sharp\\ValidParentheses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAF723C-49A7-4160-BC60-DEF0EA0868D3}|ValidParentheses\\ValidParentheses.csproj|d:\\dsa_practice\\c-sharp\\validparentheses\\validparentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAF723C-49A7-4160-BC60-DEF0EA0868D3}|ValidParentheses\\ValidParentheses.csproj|solutionrelative:validparentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dsa_practice\\c-sharp\\ValidParentheses\\ValidParentheses\\Program.cs",
+              "RelativeDocumentMoniker": "ValidParentheses\\Program.cs",
+              "ToolTip": "D:\\dsa_practice\\c-sharp\\ValidParentheses\\ValidParentheses\\Program.cs",
+              "RelativeToolTip": "ValidParentheses\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:21:03.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

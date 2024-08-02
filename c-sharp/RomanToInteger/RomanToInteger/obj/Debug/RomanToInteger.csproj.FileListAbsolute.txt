@@ -1,0 +1,7 @@
+D:\dsa_practice\c-sharp\RomanToInteger\RomanToInteger\bin\Debug\RomanToInteger.exe.config
+D:\dsa_practice\c-sharp\RomanToInteger\RomanToInteger\bin\Debug\RomanToInteger.exe
+D:\dsa_practice\c-sharp\RomanToInteger\RomanToInteger\bin\Debug\RomanToInteger.pdb
+D:\dsa_practice\c-sharp\RomanToInteger\RomanToInteger\obj\Debug\RomanToInteger.csproj.AssemblyReference.cache
+D:\dsa_practice\c-sharp\RomanToInteger\RomanToInteger\obj\Debug\RomanToInteger.csproj.CoreCompileInputs.cache
+D:\dsa_practice\c-sharp\RomanToInteger\RomanToInteger\obj\Debug\RomanToInteger.exe
+D:\dsa_practice\c-sharp\RomanToInteger\RomanToInteger\obj\Debug\RomanToInteger.pdb
