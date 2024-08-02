@@ -1,3 +1,3 @@
-# DSA
+# Data Structures Algorithms - Practice
 
-Daily drills because I can :)
+Drills because I can :)
